@@ -1,2 +1,1 @@
-Esse sistema busca simular um sistema de banco, utilizando conceitos simples da orientação a objetos.
-Há pratica do conceitos de Herança, Exceptions, Try e Catch, Exeptions Personalizadas...
+Esse sistema busca simular um sistema bancário, utilizando conceitos básicos de Programação Orientada a Objetos. Nele, são aplicados na prática os conceitos de herança, tratamento de exceções, try e catch e exceções personalizadas.
