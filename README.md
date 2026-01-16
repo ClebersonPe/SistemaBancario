@@ -23,6 +23,8 @@ Foram criadas diversas interfaces para cada processo do aplicativo.
 
 <img width="1917" height="1014" alt="image" src="https://github.com/user-attachments/assets/f6a3d9d0-9695-4b12-a7e5-3120625f5570" />
 
+Deu ruim 😭 vou arrumar!
+
 
 
 
